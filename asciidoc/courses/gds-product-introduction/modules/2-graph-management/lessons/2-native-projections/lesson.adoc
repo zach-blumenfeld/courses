@@ -185,7 +185,7 @@ CALL gds.graph.project(
             budget: {defaultValue: 0},
             runtime: {defaultValue: 0}
         },
-        relationshipProperties: ['rating'] // <3>
+        relationshipProperties: ['rating'] // <2>
     }
 );
 ----
